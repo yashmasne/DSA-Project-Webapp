@@ -22,6 +22,12 @@ The best-performing model is selected, saved using **pickle**, and deployed usin
 
 ---
 
+### Input->>
+![App_Input](screenshots/input.png)
+
+### Output->>
+![App_Output](screenshots/output.png)
+---
 ## 🗂️ Project Structure
 
 ```
